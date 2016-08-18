@@ -1,0 +1,17 @@
+{
+    "name": "snippet-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Gesine Todt"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/snippet-bower.git"
+    },
+    "description": "Snippet font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
